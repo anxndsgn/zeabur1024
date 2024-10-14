@@ -9,9 +9,3 @@ function zeabur1024Promotion() {
 }
 
 zeabur1024Promotion();
-
-console.log(
-  '%cBig Text %cSmall Text',
-  'font-size: 30px; color: red;',
-  'font-size: 12px; color: green;'
-);
