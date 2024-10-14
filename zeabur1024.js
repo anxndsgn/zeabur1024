@@ -3,7 +3,7 @@ import { promotions } from './promotions.js';
 function zeabur1024Promotion() {
   const today = new Date(Date.now());
 
-  if (today.toLocaleDateString() == '2024/10/14') {
+  if (today.toLocaleDateString() == '10/14/2024') {
     console.log(promotions);
   }
 }
