@@ -1,4 +1,4 @@
-import { promotions } from './promotion.js';
+import { promotions } from './promotions.js';
 
 function zeabur1024Promotion() {
   const today = new Date(Date.now());
