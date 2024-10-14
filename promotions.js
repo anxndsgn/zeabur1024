@@ -11,9 +11,29 @@ const zeabur = `
 
 const promotion = `
 
-* 20% discount on top-up on 10/24 (Starting from $5, you can get $6.25 for paying $, and the top-up amount can be used to buy Dedicated Server in the future) 
+* 20% discount on top-up on 10/24 
+ (Starting from $5, you can get $6.25 for paying $, and the top-up amount can be used to buy Dedicated Server in the future) 
 
 * Charge over $10.24 to get free Zeabur sticker!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
